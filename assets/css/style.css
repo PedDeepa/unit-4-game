@@ -1,0 +1,30 @@
+.jumbotron {
+  margin-bottom: 0px;
+  text-shadow: gray 0.5em 0.5em 0.5em;
+  background: url("../images/greenbg.jpg")
+}
+.text-center{
+    color: darkred;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-style: italic;
+}
+
+body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background: url("../images/greenbg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+  
+div{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background: url("../images/greenbg.jpg");
+    
+}
+.panel-body{
+    font-weight: bold;
+}
+.panel-title{
+    color:blue;   
+}
